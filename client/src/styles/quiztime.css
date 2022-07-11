@@ -1,0 +1,46 @@
+.quizbox {
+  position: absolute;
+  width: 75vw;
+  height: 70vh;
+  background-color: aliceblue;
+  left: 12%;
+  top: 20%;
+  padding: 10px;
+}
+.quizbox h2 {
+  padding-top: 40px;
+  padding-inline: 10vw;
+  font-size: 2rem;
+}
+.quizbox p {
+  float: right;
+  color: brown;
+  font-size: larger;
+}
+
+.options {
+  display: grid;
+  grid-template-rows: auto auto auto auto;
+  grid-gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 70vw;
+  padding-top: 70px;
+  margin-left: 30px;
+}
+.options .item {
+  width: 60vw;
+  text-align: center;
+  padding-bottom: 20px;
+  background-color: rgb(18, 209, 209);
+  color: black;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.options .item:hover {
+  background-color: rgb(1, 65, 65);
+  color: white;
+}
+.item h3 {
+  padding-top: 10px;
+}

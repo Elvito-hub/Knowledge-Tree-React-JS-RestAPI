@@ -1,0 +1,41 @@
+.box {
+  position: absolute;
+  width: 70vw;
+  height: 230px;
+  border-radius: 5px;
+  left: 15%;
+  top: 40%;
+  display: grid;
+  grid-template-columns: 150px 150px 150px 150px 150px;
+  padding-top: 20px;
+  justify-content: center;
+  text-align: center;
+  grid-gap: 10px;
+  background-color: rgb(49, 54, 54);
+}
+.box .item {
+  height: 150px;
+  display: grid;
+  grid-template-rows: 150px 20px;
+  background-color: white;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.box .item:hover svg {
+  width: 120px;
+  height: 120px;
+}
+.box .item:hover .name {
+  color: antiquewhite;
+}
+.box svg {
+  width: 100px;
+  height: 100px;
+}
+.box .name {
+  margin-top: 19px;
+  color: white;
+}

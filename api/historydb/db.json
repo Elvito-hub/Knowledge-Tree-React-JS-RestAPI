@@ -1,0 +1,148 @@
+{
+  "historyres": [
+    {
+      "userId": "115605365879045882963",
+      "time": "2/1/2021, 9:59:07 AM",
+      "category": "Sports",
+      "difficulty": "easy",
+      "score": "25%",
+      "id": 1
+    },
+    {
+      "userId": "115605365879045882963",
+      "time": "2/1/2021, 10:00:17 AM",
+      "category": "Entertainment: Music",
+      "difficulty": "easy",
+      "score": "50%",
+      "id": 2
+    },
+    {
+      "userId": "115605365879045882963",
+      "time": "2/1/2021, 10:11:54 AM",
+      "category": "Sports",
+      "difficulty": "easy",
+      "score": "60%",
+      "id": 3
+    },
+    {
+      "userId": "115605365879045882963",
+      "time": "2/1/2021, 10:30:08 AM",
+      "category": "History",
+      "difficulty": "easy",
+      "score": "40%",
+      "id": 4
+    },
+    {
+      "userId": "115605365879045882963",
+      "time": "2/1/2021, 11:32:10 AM",
+      "category": "Sports",
+      "difficulty": "easy",
+      "score": "50%",
+      "id": 5
+    },
+    {
+      "userId": "115605365879045882963",
+      "time": "2/1/2021, 11:53:46 AM",
+      "category": "Sports",
+      "difficulty": "easy",
+      "score": "20%",
+      "id": 6
+    },
+    {
+      "userId": "115605365879045882963",
+      "time": "2/28/2021, 3:00:26 PM",
+      "category": "Entertainment: Music",
+      "difficulty": "hard",
+      "score": "0%",
+      "id": 7
+    },
+    {
+      "userId": "115605365879045882963",
+      "time": "2/28/2021, 3:05:41 PM",
+      "category": "Geography",
+      "difficulty": "easy",
+      "score": "55.55555555555556%",
+      "id": 8
+    },
+    {
+      "userId": "115605365879045882963",
+      "time": "5/1/2021, 8:31:49 PM",
+      "category": "Sports",
+      "difficulty": "easy",
+      "score": "40%",
+      "id": 9
+    },
+    {
+      "userId": "115605365879045882963",
+      "time": "5/27/2021, 8:43:36 PM",
+      "category": "History",
+      "difficulty": "easy",
+      "score": "0%",
+      "id": 10
+    },
+    {
+      "userId": "115605365879045882963",
+      "time": "10/12/2021, 4:48:45 AM",
+      "category": "Entertainment: Music",
+      "difficulty": "easy",
+      "score": "20%",
+      "id": 11
+    },
+    {
+      "userId": "115605365879045882963",
+      "time": "12/1/2021, 4:38:08 PM",
+      "category": "Sports",
+      "difficulty": "easy",
+      "score": "50%",
+      "id": 12
+    },
+    {
+      "userId": "115605365879045882963",
+      "time": "1/1/2022, 11:09:51 PM",
+      "category": "Entertainment: Music",
+      "difficulty": "easy",
+      "score": "14.285714285714286%",
+      "id": 13
+    },
+    {
+      "userId": "115605365879045882963",
+      "time": "1/1/2022, 11:11:22 PM",
+      "category": "Entertainment: Music",
+      "difficulty": "medium",
+      "score": "14.285714285714286%",
+      "id": 14
+    },
+    {
+      "userId": "115605365879045882963",
+      "time": "1/1/2022, 11:13:32 PM",
+      "category": "Entertainment: Film",
+      "difficulty": "easy",
+      "score": "42.857142857142854%",
+      "id": 15
+    },
+    {
+      "userId": "115605365879045882963",
+      "time": "1/1/2022, 11:15:36 PM",
+      "category": "Entertainment: Film",
+      "difficulty": "medium",
+      "score": "14.285714285714286%",
+      "id": 16
+    },
+    {
+      "userId": "115605365879045882963",
+      "time": "1/1/2022, 11:16:47 PM",
+      "category": "History",
+      "difficulty": "easy",
+      "score": "20%",
+      "id": 17
+    },
+    {
+      "userId": "115605365879045882963",
+      "time": "1/25/2022, 11:01:26 PM",
+      "category": "Geography",
+      "difficulty": "easy",
+      "score": "31.25%",
+      "id": 18
+    }
+  ]
+}

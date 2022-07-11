@@ -1,0 +1,12 @@
+.resultbox {
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  background-color: #273036;
+  color: aliceblue;
+  left: 33vw;
+  top: 20vh;
+  text-align: center;
+  padding-top: 90px;
+  border-radius: 10px;
+}

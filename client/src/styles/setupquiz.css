@@ -1,0 +1,40 @@
+.setquizbox {
+  position: absolute;
+  height: 500px;
+  width: 600px;
+  background-color: white;
+  left: 27vw;
+  top: 25vh;
+  padding-left: 5px;
+}
+.setquizbox h1 {
+  padding-left: 200px;
+  padding-top: 10px;
+  font-size: 2.5rem;
+  line-height: 1;
+}
+
+.formbox {
+  height: 300px;
+  display: grid;
+  grid-template-rows: 25% 25% 25%;
+  justify-content: center;
+  padding-top: 40px;
+  grid-gap: 10px;
+}
+
+.item input {
+  width: 400px;
+  height: 30px;
+  background-color: whitesmoke;
+}
+select {
+  width: 400px;
+  height: 30px;
+  background-color: whitesmoke;
+  
+}
+.item {
+  display: grid;
+  grid-template-rows: 50% 50%;
+}
